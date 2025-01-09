@@ -7,7 +7,7 @@
 - Email: nezzybucumi@gmail.com
 
 
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimutai004&layout=compact&theme=radical)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nezzyyoung&layout=compact&theme=radical)
 
 
 
