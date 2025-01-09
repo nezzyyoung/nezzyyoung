@@ -6,7 +6,7 @@
 - Moblie: +2547 96627375
 - Email: nezzybucumi@gmail.com
 
-- https://github-readme-stats.vercel.app/api/top-langs/?username=nezzyyoung&layout=compact&theme=radical
+- https://github-readme-stats.vercel.app/api/top-langs/?username=kimutai004&layout=compact&theme=radical
 
 - Here is a list of programming languages I'm proficient in:
 
