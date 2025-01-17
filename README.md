@@ -9,6 +9,10 @@
 
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nezzyyoung&layout=compact&theme=radical)
 
+- https://camo.githubusercontent.com/95d04f0df7c4c7d98ae52ada702d67f6adf6762c23315b2150093d3b52bdbdc6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d676574726f33312673686f775f69636f6e733d74727565266c6f63616c653d656e
+
+
+
 
 
 - Here is a list of programming languages I'm proficient in:
