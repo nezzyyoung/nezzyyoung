@@ -9,7 +9,7 @@
 
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nezzyyoung&layout=compact&theme=radical)
 
-- https://camo.githubusercontent.com/
+
 
 
 
