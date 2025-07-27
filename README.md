@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nezzyyoung a passionate programmer who loves coding and learning more about tech
 - 👀 I’m interested in collaborative codwork, task solving, debugging, problem solving, late night coding
-- 🌱 I’m currently learning python and AWS, Rust and Next.js
-- 💞️ I’m looking to collaborate on Web Application, git repositories, serverless
+- 🌱 Mastered Algorithms and Logical thinking
+- 💞️ I’m looking to collaborate on Web Application, git repositories, serverless, hackathons
 - 📫 How to reach me;
 - Moblie: +2547 96627375
 - Email: nezzybucumi@gmail.com
