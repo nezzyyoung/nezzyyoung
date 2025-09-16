@@ -10,8 +10,6 @@
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nezzyyoung&layout=compact&theme=radical)
 
 
-https://camo.githubusercontent.com/13cdd60095c5de010c1b2fe1bc0c4926021f9198aa6d26c3993609c18bb6e676/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d626c61697365323826
-
 
 
 
